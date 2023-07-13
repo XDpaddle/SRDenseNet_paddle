@@ -36,7 +36,7 @@ python train.py --train-file "BLAH_BLAH/coco2017_x4.h5" \
 ```
 
 ## Test
-pre_trained weigths can be found in BLAH_BLAH/outputs.
+Pre-trained weights can be found in BLAH_BLAH/outputs.
 
 ```bash
 python test.py --weights-file "BLAH_BLAH/outputs/x4/best.pdiparams" \
